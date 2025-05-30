@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Day1UIChallenge/static/css/main.fce4db20.css",
+    "main.js": "/Day1UIChallenge/static/js/main.71ec7ca5.js",
+    "static/js/453.b523db95.chunk.js": "/Day1UIChallenge/static/js/453.b523db95.chunk.js",
+    "index.html": "/Day1UIChallenge/index.html",
+    "main.fce4db20.css.map": "/Day1UIChallenge/static/css/main.fce4db20.css.map",
+    "main.71ec7ca5.js.map": "/Day1UIChallenge/static/js/main.71ec7ca5.js.map",
+    "453.b523db95.chunk.js.map": "/Day1UIChallenge/static/js/453.b523db95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fce4db20.css",
+    "static/js/main.71ec7ca5.js"
+  ]
+}
